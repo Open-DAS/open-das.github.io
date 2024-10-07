@@ -1,5 +1,5 @@
 # OpenDAS
-## Domain Adaptation for Open-Vocabulary Segmentation 
+## Open-Vocabulary Domain Adaptation for Segmentation 
 <div align="center">
 <a href="https://goncayilmaz.github.io/">Gonca Yilmaz</a><sup>1,2</sup>, &nbsp;&nbsp;&nbsp;
 <a href="https://pengsongyou.github.io/">Songyou Peng</a><sup>1</sup>, &nbsp;&nbsp;&nbsp; 
